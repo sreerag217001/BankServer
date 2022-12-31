@@ -36,4 +36,7 @@ To Generate Token - sign()
        req,res,next
 
        1)Application Specific Middleware- For entire application.
-       2)Router Specific Middleware- For token verification- verify().
+       2)Router Specific Middleware- For token verification- verify(). 
+
+11) Database integration
+   1) install mongoose - npm i mongoose
